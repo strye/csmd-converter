@@ -1,22 +1,19 @@
 Title: SERIES TITLE
 Issue Title: Issue 1 - Title
-Author: Will Strye
-Script Description: A 20 page comic for Comics Experience, "Advanced Writing" course.
-
-
+Author: Alto Boren
+Script Description: A 20 page comic about stuff.
 
 Draft Date: Draft 1
-Contact: will.strye@malignantgenius.com
+Contact: foo@bar.mail
 
+// This comment will never print. Only comments on pages will print.
+
+# Full Page Panel with titles
 /*
-
-This is a test comment
-
+This is a printable test comment
 */
 
 // This is the second test comment
-
-# Full Page Panel with titles
 
 ##
 
@@ -39,7 +36,7 @@ Hi there.
 
 This is another panel description.
 
-/* And this is a comment, which will not appear in the exported script */
+/* And this is a third comment, which will not appear when exported in script mode */
 
 > Character Two (OFF)
 Don't start without me! I have a lot to say and I need to know that my speech will wrap properly!

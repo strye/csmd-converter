@@ -11,7 +11,8 @@
     .title {font-size: 1.5em}
     .issueTitle {text-transform: uppercase}
     .spacer {margin-top:100px}
-    .comment {}
+    .comment {font-weight: bold; color: 000060}
+	.private {font-weight: bold; color: 600000; font-size: 1.1em}
     .bold {font-weight: bold}
     .characterName {padding-left: 30%}
     .dialogParenthetical {padding-left: 20%}
