@@ -2,6 +2,10 @@
 A node js library to convert comic script markdown to other formats
 
 ## Install
+This module is currently not in npm, but can be installed directly form github
+npm install strye/csmd-converter
+_OR_
+npm install strye/csmd-converter -S
 
 
 ## Usage
