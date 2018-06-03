@@ -1,6 +1,7 @@
 Title: SERIES TITLE
 Issue Title: Issue 1 - Title
-Author: Alto Boren
+Story By: Bob Dobbs
+Writer: Alto Boren
 Script Description: A 20 page comic about stuff.
 
 Draft Date: Draft 1
@@ -31,17 +32,19 @@ This is another panel description.
 
 And this is the second paragraph of a panel description. Note how no special formatting is needed for paragraph breaks.
 
+This is another panel description.
+
 > CHARACTER ONE
 Hi there.
 
-This is another panel description.
+>> This is a note to the letterer.
 
 /* And this is a third comment, which will not appear when exported in script mode */
 
 > Character Two (OFF)
 Don't start without me! I have a lot to say and I need to know that my speech will wrap properly!
 
-#
+# 2
 << This is a special note. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in suscipit purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus nec hendrerit felis. Morbi aliquam facilisis risus eu lacinia. Sed eu leo in turpis fringilla hendrerit. Ut nec accumsan nisl.
 
 ##
