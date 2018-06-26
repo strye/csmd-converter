@@ -20,9 +20,10 @@ This is a printable test comment
 
 This is a panel description.
 
-> CHARACTER ONE
+> CHAR ONE
 Hello.
-(cont)
+
+> CHAR ONE
 And this is how you can link multiple balloons from the same speaker.
 
 
@@ -34,14 +35,14 @@ And this is the second paragraph of a panel description. Note how no special for
 
 This is another panel description.
 
-> CHARACTER ONE
+> CHAR ONE
 Hi there.
 
 >> This is a note to the letterer.
 
 /* And this is a third comment, which will not appear when exported in script mode */
 
-> Character Two (OFF)
+> Char Two (OP)
 Don't start without me! I have a lot to say and I need to know that my speech will wrap properly!
 
 # 2
@@ -50,7 +51,7 @@ Don't start without me! I have a lot to say and I need to know that my speech wi
 ##
 Explosion that is a booming voice
 
-> Voice Over
+> Char Three (VO)
 That's all you need to know to write a comic script in markdown.
 
 
