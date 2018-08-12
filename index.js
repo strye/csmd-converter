@@ -1,17 +1,14 @@
 var processor = require("./lib/processor"),
-	getMdMeta = require("./lib/get-md-meta"),
-	lineConv = require("./lib/line-conv"),
+	fileProcessor = require("./lib/file-proc"),
+	readLines = require("./lib/read-file"),
 	converterFactory = require("./lib/converter-factory");
 
 
 module.exports.Processor = processor;
 
+module.exports.FileProcessor = fileProcessor;
 
-module.exports.GetMdMeta = getMdMeta;
-
-
-module.exports.LineConverter = lineConv;
-
+module.exports.ReadLines = readLines;
 
 module.exports.ConverterFactory = converterFactory;
 

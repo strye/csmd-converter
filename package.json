@@ -9,7 +9,8 @@
   "author": "Will Strye",
   "license": "Apache-2.0",
   "dependencies": {
-    "docx": "^3.3.0",
+    "bluebird": "^3.5.1",
+    "docx": "^3.6.0",
     "pdfkit": "^0.7.2"
   }
 }

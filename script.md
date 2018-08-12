@@ -1,13 +1,16 @@
+/**META===========================================**/
 Title: SERIES TITLE
 Issue Title: Issue 1 - Title
 Story By: Bob Dobbs
 Writer: Alto Boren
 Script Description: A 20 page comic about stuff.
-
 Draft Date: Draft 1
 Contact: foo@bar.mail
 
-// This comment will never print. Only comments on pages will print.
+
+/**SCRIPT========================================**/
+
+
 
 # Full Page Panel with titles
 /*
@@ -54,5 +57,3 @@ Explosion that is a booming voice
 > Char Three (VO)
 That's all you need to know to write a comic script in markdown.
 
-
-# End. This triggers the last page to write
