@@ -4,13 +4,14 @@
   "description": "A node js library to convert comic script markdown to other formats",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/tester.js"
   },
   "author": "Will Strye",
   "license": "Apache-2.0",
   "dependencies": {
-    "bluebird": "^3.5.1",
+    "chalk": "^4.1.0",
     "docx": "^3.6.0",
+    "gray-matter": "^4.0.2",
     "pdfkit": "^0.7.2"
   }
 }

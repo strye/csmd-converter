@@ -1,0 +1,51 @@
+                              Title: SERIES TITLE
+                              Isssue Num: 1
+                              Issue Title: Issue 1 - Title
+                              Description: A 20 page comic about stuff.
+                              Special Credit: Special thanks to Bob Dobbs
+                              Story By: Bob Dobbs
+                              Written By: Alto Boren
+                              Artist: Bob Dobbs
+                              Letterer: Bob Dobbs
+                              Colorist: Bob Dobbs
+                              Pencils: Bob Dobbs
+                              Inks: Bob Dobbs
+
+
+
+          Script Version: 2
+          Draft Date: Draft 1
+
+
+
+Contact Information: foo@bar.mail
+PAGE 1 (2 panels)
+NOTE TO SELF: [[This is a printable test comment]]
+
+NOTE TO SELF: [[This is the second test comment]]
+
+PANEL 1
+This is a panel description.
+               1) CHAR ONE:     Hello.
+
+               2) CHAR ONE:     And this is how you can link multiple balloons from the same speaker.
+
+PANEL 2
+This is another panel description.
+And this is the second paragraph of a panel description. Note how no special formatting is needed for paragraph breaks.
+This is another panel description.
+               3) CHAR ONE:     Hi there.
+
+               LETTERING NOTE: This is a note to the letterer.
+
+NOTE TO SELF: [[And this is a third comment, which will not appear when exported in script mode]]
+
+               4) CHAR TWO (OP):     Don't start without me! I have a lot to say and I need to know that my speech will wrap properly!
+
+PAGE 2 (1 panels)
+ARTIST NOTE: This is a special note. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in suscipit purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus nec hendrerit felis. Morbi aliquam facilisis risus eu lacinia. Sed eu leo in turpis fringilla hendrerit. Ut nec accumsan nisl.
+
+PANEL 1
+Explosion that is a booming voice
+               1) CHAR THREE (VO):     That's all you need to know to write a comic script in markdown.
+

@@ -1,16 +1,17 @@
 # csmd-converter
-A node js library to convert comic script markdown to other formats
+A node js library to convert comic script markdown to other formats.
 
 ## Install
-This module is currently not in npm, but can be installed directly form github
+This module is currently not in npm, but can be installed directly from github
 npm install strye/csmd-converter
 _OR_
 npm install strye/csmd-converter -S
 
 
+## Development Notes:
+- HTML exporter contains bugs, but is usable if you don't mind hand modifying the output.
+
 ## Usage
-
-
 
 # Markdown Guide
 

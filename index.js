@@ -1,14 +1,12 @@
-var processor = require("./lib/processor"),
-	fileProcessor = require("./lib/file-proc"),
-	readLines = require("./lib/read-file"),
-	converterFactory = require("./lib/converter-factory");
+const processor = require("./lib/processor"),
+	jsonProcessor = require("./lib/json-processor"),
+	fileReader = require("./lib/file-reader");
 
 
 module.exports.Processor = processor;
 
-module.exports.FileProcessor = fileProcessor;
+module.exports.JsonProcessor = jsonProcessor;
 
-module.exports.ReadLines = readLines;
+module.exports.FileReader = fileReader;
 
-module.exports.ConverterFactory = converterFactory;
 

@@ -1,15 +1,23 @@
-/**META===========================================**/
+---
 Title: SERIES TITLE
-Issue Title: Issue 1 - Title
-Story By: Bob Dobbs
+IssueTitle: Issue 1 - Title
+IssueNumber: 1
+Description: A 20 page comic about stuff.
+
+Story: Bob Dobbs
 Writer: Alto Boren
-Script Description: A 20 page comic about stuff.
-Draft Date: Draft 1
+Letterer: Bob Dobbs
+Artist: Bob Dobbs
+Pencils: Bob Dobbs
+Ink: Bob Dobbs
+Color: Bob Dobbs
+Credit: Special thanks to Bob Dobbs
+
+Version: 2
+DraftInfo: 
+DraftDate: Draft 1
 Contact: foo@bar.mail
-
-
-/**SCRIPT========================================**/
-
+---
 
 
 # Full Page Panel with titles
@@ -23,10 +31,10 @@ This is a printable test comment
 
 This is a panel description.
 
-> CHAR ONE
+@ CHAR ONE
 Hello.
 
-> CHAR ONE
+@ CHAR ONE
 And this is how you can link multiple balloons from the same speaker.
 
 
@@ -38,14 +46,14 @@ And this is the second paragraph of a panel description. Note how no special for
 
 This is another panel description.
 
-> CHAR ONE
+@ CHAR ONE
 Hi there.
 
 >> This is a note to the letterer.
 
 /* And this is a third comment, which will not appear when exported in script mode */
 
-> Char Two (OP)
+@ Char Two (OP)
 Don't start without me! I have a lot to say and I need to know that my speech will wrap properly!
 
 # 2
@@ -54,7 +62,6 @@ Don't start without me! I have a lot to say and I need to know that my speech wi
 ##
 Explosion that is a booming voice
 
-> Char Three (VO)
+@ Char Three (VO)
 That's all you need to know to write a comic script in markdown.
 
-# triggers final page to write
